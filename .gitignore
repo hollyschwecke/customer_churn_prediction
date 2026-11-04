@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Saved machine learning models
+models/*.pkl
+models/*.joblib
+
+#macOS
+.DS_Store
